@@ -1,7 +1,7 @@
 import React from "react";
 import PubSub from "pubsub-js";
 
-export class VNav extends React.Component {
+export default class VNav extends React.Component {
 
   constructor() {
     super();

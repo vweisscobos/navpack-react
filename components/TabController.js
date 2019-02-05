@@ -1,7 +1,7 @@
 import React from "react";
 import PubSub from "pubsub-js";
 
-export class AbasParaNavegacao extends React.Component {
+export default class AbasParaNavegacao extends React.Component {
   constructor() {
     super();
 

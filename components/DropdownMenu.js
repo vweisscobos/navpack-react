@@ -1,7 +1,7 @@
 import React from "react";
 import PubSub from "pubsub-js";
 
-export class DropdownMenu extends React.Component {
+export default class DropdownMenu extends React.Component {
   montarBotaoParaRolagem(config, index) {
     return <button
       className={'ead-link-cabecalho'}

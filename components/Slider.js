@@ -1,6 +1,6 @@
 import React from "react";
 
-export class Slider extends React.Component {
+export default class Slider extends React.Component {
   constructor() {
     super();
 

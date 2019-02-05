@@ -1,7 +1,7 @@
 import React from "react";
 import PubSub from "pubsub-js";
 
-export class HNav extends React.Component {
+export default class HNav extends React.Component {
   constructor() {
     super();
 

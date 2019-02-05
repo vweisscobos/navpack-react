@@ -2,7 +2,7 @@ import React from "react";
 import PubSub from "pubsub-js";
 import {DropdownMenu} from "./DropdownMenu";
 
-export class Cabecalho extends React.Component {
+export default class Cabecalho extends React.Component {
 
   componentWillMount() {
     this.menuMobile = document.getElementsByClassName('cabecalho--btnConteiner');
