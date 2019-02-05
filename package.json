@@ -1,0 +1,27 @@
+{
+  "name": "navpack-react",
+  "version": "1.0.0",
+  "description": "Set of react navigation components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Vinicius Weiss Cobos",
+  "license": "ISC",
+  "dependencies": {
+    "pubsub-js": "^1.7.0",
+    "react": "^16.7.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vweisscobos/navpack-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vweisscobos/navpack-react/issues"
+  },
+  "homepage": "https://github.com/vweisscobos/navpack-react#readme"
+}
